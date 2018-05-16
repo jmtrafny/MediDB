@@ -1,0 +1,24 @@
+.root{
+	-fx-background-color: #D1D1D1;
+	-fx-background-image: url("MediDBbg2.png");
+	-fx-background-repeat: no-repeat;
+}
+
+.button{
+	-fx-font-family: "Signika";
+	-fx-font-size: 16pt;
+	-fx-text-alignment: center;
+	-fx-text-fill: #ffffff;
+	-fx-background-color: #0D2557;
+	
+}
+
+.tooltip{
+	-fx-font-size: 8pt;
+}
+
+.label{
+	-fx-font-family: "Signika";
+	-fx-font-size: 12pt;
+	-fx-text-fill: #0D2557
+}
